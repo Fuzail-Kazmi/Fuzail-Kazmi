@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fuzail-Kazmi
 - 👀 I’m interested in Web Designing
-- - 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me fuzail.codecare@gmail.com
 
 <!---
