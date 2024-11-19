@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fuzail-Kazmi
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me fuzail.codecare@gmail.com
 
